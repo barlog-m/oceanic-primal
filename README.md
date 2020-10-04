@@ -24,3 +24,5 @@ dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < ./gnome-terminal/
 ```
 
 Font on screenshots is [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
+
+[![MIT License](https://img.shields.io/badge/license-MIT-a31f34.svg?style=flat-square)](https://opensource.org/licenses/MIT)
