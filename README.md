@@ -15,7 +15,7 @@ Based on [Oceanic Primal palette](https://github.com/oceanic-primal/palette), in
 
 Put config from ./kitty/kitty.conf into your.
 
-### [Gnome Termianl](https://help.gnome.org/users/gnome-terminal/stable/)
+### [Gnome Terminal](https://help.gnome.org/users/gnome-terminal/stable/)
 
 ![Oceanic Primal Gnome Terminal Screenshot](oceanic-primal-gnome-terminal.png)
 
