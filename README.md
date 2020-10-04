@@ -5,7 +5,7 @@
 Based on [Oceanic Primal palette](https://github.com/oceanic-primal/palette), inspired by [Oceanic-Next.vim](https://github.com/mhartington/oceanic-next)
 
 -   [Vim and Neovim](https://github.com/barlog-m/oceanic-primal-vim)
--   [IntelliJ IDEA](https://plugins.jetbrains.com/plugin/15141-oceanic-primal-theme)
+-   [IntelliJ IDEA](https://github.com/barlog-m/oceanic-primal-idea)
 
 [colortest](https://github.com/barlog-m/colortest) bash script
 
