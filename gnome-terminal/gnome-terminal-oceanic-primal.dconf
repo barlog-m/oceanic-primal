@@ -1,0 +1,9 @@
+[/]
+foreground-color='#C0C5CE'
+visible-name='Oceanic Primal'
+palette=['#1B2B34', '#EC5f67', '#99C794', '#FAC863', '#6699CC', '#C594C5', '#5FB3B3', '#C0C5CE', '#65737E', '#EC5f67', '#99C794', '#FAC863', '#6699CC', '#C594C5', '#5FB3B3', '#D8DEE9']
+use-theme-colors=false
+use-theme-background=false
+bold-color-same-as-fg=true
+bold-color='#C0C5CE'
+background-color='#1B2B34'
