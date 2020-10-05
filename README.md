@@ -8,6 +8,7 @@ Based on [Oceanic Primal palette](https://github.com/oceanic-primal/palette), in
 
 -   [Oceanic Primal for Vim and Neovim](https://github.com/barlog-m/oceanic-primal-vim)
 -   [Oceanic Primal for IntelliJ IDEA](https://github.com/barlog-m/oceanic-primal-idea)
+-   [Oceanic Primal for Sublime Text](https://github.com/barlog-m/oceanic-primal-sublime)
 
 [colortest](https://github.com/barlog-m/colortest) bash script
 
