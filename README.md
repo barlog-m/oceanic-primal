@@ -26,8 +26,4 @@ Put config from ./kitty/kitty.conf into your.
 dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < ./gnome-terminal/gnome-terminal-oceanic-primal.dconf
 ```
 
-### [Sublime Text](https://www.sublimetext.com/)
-
-![Oceanic Primal Sublime Text Screenshot](oceanic-primal-sublime.png)
-
 Font on screenshots is [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
