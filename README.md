@@ -1,5 +1,7 @@
 # Oceanic Primal color scheme
 
+[![MIT License](https://img.shields.io/badge/license-MIT-0298c3.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 [**Oceanic Primal**](https://barlog.li/projects/oceanic-primal) is a color theme that built in opposite to [base16](http://chriskempson.com/projects/base16/) color themes with fewer color and more ocean.
 
 Based on [Oceanic Primal palette](https://github.com/oceanic-primal/palette), inspired by [Oceanic-Next.vim](https://github.com/mhartington/oceanic-next)
@@ -23,6 +25,8 @@ Put config from ./kitty/kitty.conf into your.
 dconf load /org/gnome/terminal/legacy/profiles:/:PROFILE_ID/ < ./gnome-terminal/gnome-terminal-oceanic-primal.dconf
 ```
 
-Font on screenshots is [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
+### [Sublime Text](https://www.sublimetext.com/)
 
-[![MIT License](https://img.shields.io/badge/license-MIT-a31f34.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+![Oceanic Primal Sublime Text Screenshot](oceanic-primal-sublime.png)
+
+Font on screenshots is [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
