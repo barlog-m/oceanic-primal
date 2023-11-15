@@ -1,0 +1,23 @@
+{
+    "background": "#1B2B34",
+    "black": "#1B2B34",
+    "blue": "#6699CC",
+    "brightBlack": "#65737E",
+    "brightBlue": "#6699CC",
+    "brightCyan": "#62B3B2",
+    "brightGreen": "#99C794",
+    "brightPurple": "#C594C5",
+    "brightRed": "#EC5F67",
+    "brightWhite": "#C0C5CE",
+    "brightYellow": "#FAC863",
+    "cursorColor": "#C0C5CE",
+    "cyan": "#62B3B2",
+    "foreground": "#C0C5CE",
+    "green": "#99C794",
+    "name": "Oceanic Primal",
+    "purple": "#C594C5",
+    "red": "#EC5F67",
+    "selectionBackground": "#C0C5CE",
+    "white": "#C0C5CE",
+    "yellow": "#FAC863"
+}
